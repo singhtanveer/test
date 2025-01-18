@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
-		<license/>
+		<license/>ava.lang.NoSuchMethodError: No such DSL method 'withMaven' found among steps 
 	</licenses>
 	<developers>
 		<developer/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
